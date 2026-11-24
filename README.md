@@ -112,8 +112,7 @@ demo/
 agent 根据实际模型拆分设备并调整配置，验证模型加载、数据范围、动画与页面流程，交付启动命令和预览地址。无原生动画时显示空态；不编造机械运动。配置指标和业务汇总可能需要共同修改，不能承诺只改任意 JSON 键就能自动完成业务适配。
 本项目许可证见 [LICENSE](LICENSE)。Three.js 及相关模块使用随附的 [MIT 许可证](ui-digital-twin-mff-skill/assets/frontend-template/dist/vendor/THREE-LICENSE.txt)；Draco 解码器保留上游 [Apache 2.0 许可全文及第三方声明](ui-digital-twin-mff-skill/assets/frontend-template/dist/vendor/draco/LICENSE)。
 
-<img width="1553" height="955" alt="公众号封底 (4)" src="https://github.com/user-attachments/assets/61523d1e-3b48-46ff-8240-727ceeb2ba09" />
-
+<img width="1553" height="955" alt="公众号封底 (5)" src="https://github.com/user-attachments/assets/2fe9f3df-0060-49f4-97d1-0e27d7828580" />
 
 ## 版本
 
